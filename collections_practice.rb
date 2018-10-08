@@ -26,5 +26,8 @@ end
 
 def count_elements(collection, element)
   counted = {}
-  counted[element] = 
+  counted[element] = count
+  
+  collection.each do |k, v|
+    if v ==
 end 
